@@ -3,5 +3,5 @@ function AccioJob(name) {
 	alert(name);
 	
 }
-let a= prompt("Enter Your Name")
+let a= "AccioJob";
 AccioJob(a);
